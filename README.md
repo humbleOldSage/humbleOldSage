@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on RAGs & LLMs<br>👯 I’m looking to collaborate for AI hackathons & Kaggle competitions.<br>🌱 I’m currently learning AWS Cloud.<br>💬 Ask me about AI, ML & MLOps.
+🔭 I’m currently working on RAGs & LLMs<br>👯 I’m looking to collaborate for Reaserch, AI hackathons & Kaggle competitions.<br>🌱 I’m currently learning AWS Cloud.<br>💬 Ask me about AI, ML & MLOps.
 
 
 ## 🌐 Socials:
